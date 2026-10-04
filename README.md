@@ -1,7 +1,7 @@
 # Windows Security Monitoring Toolkit
 
 ## Overview
-A Python toolkit that monitors a Windows machine and detects suspicious activity, built as my first hands-on cybersecurity project while preparing for CompTIA Security+ (SY0-701).
+A Python toolkit that monitors a Windows machine and detects suspicious activity.
 
 The goal is to simulate a small part of a SOC analyst's workflow: discover what is exposed on a host, analyze Windows event logs for attack patterns, raise alerts mapped to MITRE ATT&CK, and produce a findings report aligned with NCA ECC controls.
 
